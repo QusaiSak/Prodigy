@@ -45,7 +45,7 @@ Follow these steps to clone and run the project locally:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/Raugaa/Prodigy-Infotech.git
+   git clone https://github.com/QusaiSak/Prodigy
    
 2. Navigate into the project folder::
    ```bash
